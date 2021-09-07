@@ -2,7 +2,10 @@ RENCANA KONTEN ENJOY CLICK
 -Programmer video
   *Reupload
   *Create new
-   ^Sony vegas
+   ^Filmora
+   ^Adobe
+-Postingan kata
 -Vlog
- ^kamera
+ ^Tantang java
 -Tutorial
+ ^Java
