@@ -1,3 +1,5 @@
 - Penghasilan bulanan
 - Penghasilan maintenance
 - Penghasilan app adds
+- Penghasilan waralaba
+- Penghasilan pembuatan personal
